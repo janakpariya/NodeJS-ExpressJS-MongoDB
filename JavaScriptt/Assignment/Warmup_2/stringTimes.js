@@ -1,3 +1,3 @@
-function stringTimes(str, n){
-    return str.repeat(n);
+function stringTimes(str, n) {
+  return str.repeat(n);
 }
